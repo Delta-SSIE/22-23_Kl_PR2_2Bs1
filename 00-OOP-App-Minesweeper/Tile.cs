@@ -79,6 +79,5 @@ namespace _00_OOP_App_Minesweeper
             }
         }
 
-
     }
 }
